@@ -4,7 +4,7 @@ Perkembangan industri permainan video telah menghasilkan berbagai judul yang men
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-bla bla bla
+player adalah seseorang yang memiliki hambatan dalam mencapai cita-citanya. Untuk itu, player harus mencari peti harta karun yang di dalamnya berisi sebuah misi yang dimana misi tersebut akan menghantarkan player untuk mencapai tujuannya yakni mencapai cita-citanya, misi tersebut harus dijalankan secara berurutan tidak boleh secara acak atau random.
 
 ## 1.3. Branding
 
