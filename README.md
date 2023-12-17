@@ -20,8 +20,9 @@ player adalah seseorang yang memiliki hambatan dalam mencapai cita-citanya. Untu
 - Seorang yang senang tantangan
 
 ### Inspirasi Desain
-"C:\Users\FATMA ROBBANIYAH\Pictures\Saved Pictures\inspirasi desain.jpg"
-"C:\Users\FATMA ROBBANIYAH\Pictures\Saved Pictures\inspirasi desain 2.jpg"
+![inspirasi desain](https://github.com/fatmaar/job-interview-pdp.md/assets/144698418/b7be2cb3-a24e-48a8-b1df-ac90b59d162a)
+![inspirasi desain 2](https://github.com/fatmaar/job-interview-pdp.md/assets/144698418/7de0bda6-ffee-4887-9fe0-842db74b9ff4)
+
 
 ## 2. User Story
 
