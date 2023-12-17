@@ -34,3 +34,42 @@ player | mengambil icon love nyawa | dapat menambah nyawa | ⭐⭐⭐
 player | melawan monster | bisa melanjutkan perjalanan dengan aman | ⭐⭐⭐
 player | menggunakan senjata | bisa melawan dan mematikan monster | ⭐⭐⭐
 player | membeli senjata | bisa mengganti senjata | ⭐⭐⭐
+
+
+## 3. Struktur Data
+
+
+## 4. Arsitektur Sistem
+
+
+## 5. Teknologi, Library, dan Framework
+
+
+## 6. Desain User Experience dan User Interface
+![Screenshot 2023-12-17 212538](https://github.com/fatmaar/job-interview-pdp.md/assets/144698418/cbad68c3-e8c3-49d8-96dd-ccb0f31f4f35)
+
+![Screenshot 2023-12-17 212641](https://github.com/fatmaar/job-interview-pdp.md/assets/144698418/685d62c9-b19d-4630-ad91-24568b8fdfda)
+
+![Screenshot 2023-12-17 212625](https://github.com/fatmaar/job-interview-pdp.md/assets/144698418/5f023c4b-48ac-4e9e-9340-34450a81663d)
+
+![Screenshot 2023-12-17 212604](https://github.com/fatmaar/job-interview-pdp.md/assets/144698418/da19769f-21e8-4b50-9b1c-8a3b760e898c)
+
+
+## 7. Demonstrasi Video
+[In Progress]
+
+## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
+
+[In Progress]
+
+## 9. Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu ?
+
+[In Progress]
+
+## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
+
+[In Progress]
+
+## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
+
+[In Progress]
