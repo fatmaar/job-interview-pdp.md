@@ -1,4 +1,4 @@
-## 1.1 Latar Belakang
+![image](https://github.com/fatmaar/job-interview-pdp.md/assets/144698418/8f17c41a-c84d-46ae-9105-381fca691a8b)## 1.1 Latar Belakang
 
 Perkembangan industri permainan video telah menghasilkan berbagai judul yang menawarkan pengalaman yang semakin mendalam dan kompleks bagi para pemain. Salah satu alur cerita yang sering digunakan dalam game adalah tentang seorang tokoh utama yang berjuang untuk mencapai cita-citanya. Namun, perjalanan menuju cita-cita tersebut tidak selalu mulus dan mudah. Dalam banyak permainan, pemain akan dihadapkan pada tantangan yang menguji keterampilan, strategi, dan keberanian mereka. Alur cerita semacam ini seringkali disajikan dengan elemen fantastis, seperti adanya monster-monster yang menjadi rintangan utama. Para pemain harus berusaha untuk mengalahkan monster-monster tersebut sambil mengembangkan karakter mereka sepanjang perjalanan. Game-game semacam ini tidak hanya menghibur, tetapi juga memberikan pelajaran tentang ketekunan, tekad, dan kemampuan mengatasi rintangan dalam mencapai tujuan hidup.
 
@@ -34,6 +34,12 @@ player | mengambil icon love nyawa | dapat menambah nyawa | ⭐⭐⭐
 player | melawan monster | bisa melanjutkan perjalanan dengan aman | ⭐⭐⭐
 player | menggunakan senjata | bisa melawan dan mematikan monster | ⭐⭐⭐
 player | membeli senjata | bisa mengganti senjata | ⭐⭐⭐
+player | mengganti backsound music | bisa menikmati music yang berbeda-beda | ⭐⭐⭐⭐
+player | menonaktifkan backsound | bisa menyesuaikan keadaan | ⭐⭐⭐⭐
+player | mengganti character player | bisa bermain dengan character yang berbeda-beda | ⭐⭐⭐
+player | membeli character player | bisa tampil dengan beda | ⭐⭐⭐
+player | mengganti suasana background game | tidak mudah bosan | ⭐⭐⭐
+player | membeli kendaraan | bisa menggunakan kendaraan selama perjalanan game dimulai | ⭐⭐⭐
 
 
 ## 3. Struktur Data
