@@ -8,7 +8,16 @@ player adalah seseorang yang memiliki hambatan dalam mencapai cita-citanya. Untu
 
 ## 1.3. Branding
 
-bla bla bla
+### Merk : Pursuing a dream
+
+### Tagline : relax your mind by playing games
+
+### Target user :
+-Usia 17+
+-Seorang yang senang sekali bermain game
+-Seorang yang senang bermain game walau sekedar menghilangkan penat
+-Seorang yang senang akan tampilan game yang berbeda
+-Seorang yang senang tantangan
 
 ## 2. User Story
 
