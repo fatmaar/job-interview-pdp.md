@@ -19,6 +19,10 @@ player adalah seseorang yang memiliki hambatan dalam mencapai cita-citanya. Untu
 - Seorang yang senang akan tampilan game yang berbeda
 - Seorang yang senang tantangan
 
+### Inspirasi Desain
+"C:\Users\FATMA ROBBANIYAH\Pictures\Saved Pictures\inspirasi desain.jpg"
+"C:\Users\FATMA ROBBANIYAH\Pictures\Saved Pictures\inspirasi desain 2.jpg"
+
 ## 2. User Story
 
 sebagai | saya ingin bisa | sehingga | prioritas
