@@ -23,4 +23,9 @@ player adalah seseorang yang memiliki hambatan dalam mencapai cita-citanya. Untu
 
 sebagai | saya ingin bisa | sehingga | prioritas
 ---|---|---|---
-bla | bla | bla | ⭐⭐⭐⭐⭐
+player | bergerak maju,mundur,samping kanan & kiri | dapat mengeksplor area sekitar | ⭐⭐⭐⭐⭐
+player | mengambil kunci | dapat membuka pintu | ⭐⭐⭐⭐⭐
+player | mengambil icon love nyawa | dapat menambah nyawa | ⭐⭐⭐
+player | melawan monster | bisa melanjutkan perjalanan dengan aman | ⭐⭐⭐
+player | menggunakan senjata | bisa melawan dan mematikan monster | ⭐⭐⭐
+player | membeli senjata | bisa mengganti senjata | ⭐⭐⭐
