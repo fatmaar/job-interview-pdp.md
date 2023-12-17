@@ -13,14 +13,14 @@ player adalah seseorang yang memiliki hambatan dalam mencapai cita-citanya. Untu
 ### Tagline : relax your mind by playing games
 
 ### Target user :
--Usia 17+
--Seorang yang senang sekali bermain game
--Seorang yang senang bermain game walau sekedar menghilangkan penat
--Seorang yang senang akan tampilan game yang berbeda
--Seorang yang senang tantangan
+- Usia 17+
+- Seorang yang senang sekali bermain game
+- Seorang yang senang bermain game walau sekedar menghilangkan penat
+- Seorang yang senang akan tampilan game yang berbeda
+- Seorang yang senang tantangan
 
 ## 2. User Story
 
-bla | bla | bla | bla
+sebagai | saya ingin bisa | sehingga | prioritas
 ---|---|---|---
 bla | bla | bla | ⭐⭐⭐⭐⭐
