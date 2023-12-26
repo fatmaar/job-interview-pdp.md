@@ -4,7 +4,7 @@ Perkembangan industri permainan video telah menghasilkan berbagai judul yang men
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-player adalah seseorang yang memiliki hambatan dalam mencapai cita-citanya. Untuk itu, player harus mencari peti harta karun yang di dalamnya berisi sebuah misi yang dimana misi tersebut akan menghantarkan player untuk mencapai tujuannya yakni mencapai cita-citanya, misi tersebut harus dijalankan secara berurutan tidak boleh secara acak atau random.
+player adalah seseorang yang memiliki hambatan dalam mencapai cita-citanya. player akan diberikan nyawa 3 pada setiap awal permainan. player harus mencari peti harta karun tetapi sebelum menemukan peti, sebelumnya player harus menemukan terlebih dahulu kunci untuk membuka gerbang (dalam game di visual kan sebagai pintu) lalu ditengah-tengah perjalanannya player harus dihadapkan dengan monster yang mematikan, player harus menjauhi monster itu karena jika player terkena/bersentuhan dengan monster maka nyawa akan berkurang 1 dan jika nyawa habis maka game akan dihentikan (game over). player akan dapat menambah nyawa kembali jika player menemukan nyawa ( visual nyawa dalam game yaitu love ). setelah player menemukan beberapa kunci untuk membuka gerbang agar bisa melewati jalan menuju harta karun, maka player akan bisa membuka kotak peti harta karun yang artinya permainan selesai dan dianggap player telah dapat mencapai cita-citanya setelah banyak melewati tantangan dan rintangan dalam perjalannya.
 
 ## 1.3. Branding
 
