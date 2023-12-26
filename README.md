@@ -64,18 +64,7 @@ player | membeli kendaraan | bisa menggunakan kendaraan selama perjalanan game d
 ## 7. Demonstrasi Video
 [In Progress]
 
-## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
+## 8. Link folder kode pemrograman dari game
 
 [In Progress]
 
-## 9. Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu ?
-
-[In Progress]
-
-## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
-
-[In Progress]
-
-## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
-
-[In Progress]
