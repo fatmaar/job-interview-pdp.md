@@ -45,13 +45,11 @@ player | membeli kendaraan | bisa menggunakan kendaraan selama perjalanan game d
 ## 3. Struktur Data
 
 
-## 4. Arsitektur Sistem
+## 4. Flowchart
+![flowchartPDP drawio](https://github.com/fatmaar/job-interview-pdp.md/assets/144698418/6a9288e5-bd69-4018-aa1d-73ab9d15a078)
 
 
-## 5. Teknologi, Library, dan Framework
-
-
-## 6. Desain User Experience dan User Interface
+## 5. Desain User Experience dan User Interface
 ![Screenshot 2023-12-17 212538](https://github.com/fatmaar/job-interview-pdp.md/assets/144698418/cbad68c3-e8c3-49d8-96dd-ccb0f31f4f35)
 
 ![Screenshot 2023-12-17 212641](https://github.com/fatmaar/job-interview-pdp.md/assets/144698418/685d62c9-b19d-4630-ad91-24568b8fdfda)
@@ -61,10 +59,10 @@ player | membeli kendaraan | bisa menggunakan kendaraan selama perjalanan game d
 ![Screenshot 2023-12-17 212604](https://github.com/fatmaar/job-interview-pdp.md/assets/144698418/da19769f-21e8-4b50-9b1c-8a3b760e898c)
 
 
-## 7. Demonstrasi Video
+## 6. Demonstrasi Video
 [In Progress]
 
-## 8. Link folder kode pemrograman dari game
+## 7. Link folder kode pemrograman dari game
 
 [In Progress]
 
