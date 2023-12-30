@@ -63,15 +63,15 @@ player | membeli kendaraan | bisa menggunakan kendaraan selama perjalanan game d
 [https://www.youtube.com/watch?v=i55g3PnSae8]
 
 ## 7. Game menerapkan prinsip-prinsip dasar pemrograman seperti
-Variable
-Data type
-Operator
-Boolean
-Conditions: If / else / switch
-Looping: while / for
-Array
-Method
-Class
+- Variable
+- Data type
+- Operator
+- Boolean
+- Conditions: If / else / switch
+- Looping: while / for
+- Array
+- Method
+- Class
 
 ## 8. Bagaimana konsep variable, data type dan operator pada bahasa pemrograman digunakan dalam pembuatan game ini ?
 Konsep tersebut digunakan untuk membuat logika permainan, mengelola data permainan, dan berinteraksi dengan pengguna melalui input dan output.
