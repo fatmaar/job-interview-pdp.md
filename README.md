@@ -72,3 +72,36 @@ Looping: while / for
 Array
 Method
 Class
+
+## 8. Bagaimana konsep variable, data type dan operator pada bahasa pemrograman digunakan dalam pembuatan game ini ?
+Konsep tersebut digunakan untuk membuat logika permainan, mengelola data permainan, dan berinteraksi dengan pengguna melalui input dan output.
+
+## 9. Bagaimana konsep boolean dan conditions pada bahasa pemrograman digunakan dalam pembuatan game ini ?
+konsep boolean digunakan untuk mengevaluasi kondisi atau pernyataan tertentu. 
+
+- Metode isValidMove: Metode ini menggunakan kondisi boolean untuk memeriksa apakah langkah pemain valid. Jika pemain bergerak ke petak yang berisi simbol 'O' (batu), maka langkah dianggap tidak valid.
+
+- Metode encounterMonster: Metode ini menggunakan kondisi boolean untuk menentukan apakah pemain bertemu monster atau tidak. Jika monsterCount lebih besar atau sama dengan 2, pemain kalah dan permainan berakhir.
+
+- Metode openTreasureDoor: Metode ini menggunakan kondisi boolean untuk menentukan apakah pemain memiliki cukup kunci untuk membuka pintu peti harta karun. Jika keyCount lebih besar atau sama dengan 3, pemain dapat membuka pintu.
+
+- Metode printMaze: Metode ini tidak secara langsung menggunakan boolean, tetapi menggunakan kondisi untuk menentukan apa yang akan dicetak. Misalnya, jika sel dalam maze adalah 'J', itu akan dicetak, dan jika sel adalah 'O', itu tidak akan dicetak.
+
+## 10. Bagaimana konsep looping dan array pada bahasa pemrograman digunakan dalam pembuatan game ini ?
+- Looping dalam Metode play: Metode play menggunakan loop while untuk terus memainkan permainan selama treasureCount kurang dari 1. Ini memungkinkan permainan berlanjut sampai pemain menemukan peti harta karun.
+
+- Looping dalam Metode printMaze: Metode ini menggunakan dua loop for untuk mencetak seluruh struktur maze. Loop pertama untuk baris, dan loop kedua untuk kolom.
+
+- Array pada Variabel mazeCells: Variabel mazeCells adalah array dua dimensi yang digunakan untuk menyimpan struktur maze. Ini mencerminkan struktur permainan dan memungkinkan representasi visual petak-petak dalam maze.
+
+## 11. Bagaimana konsep method pada bahasa pemrograman digunakan dalam pembuatan game ini ?
+- Penggunaan Method movePlayer: Metode ini digunakan untuk memindahkan pemain ke sel baru dalam maze. Ini mencakup logika untuk memeriksa validitas langkah dan menangani interaksi dengan elemen-elemen lain dalam maze.
+
+- Penggunaan Method isValidMove: Metode ini memeriksa apakah langkah yang diminta oleh pemain valid. Ini menggunakan kondisi boolean dan merupakan bagian dari logika permainan untuk memastikan pemain tidak bergerak ke petak yang tidak valid.
+
+## 12. Bagaimana konsep class pada bahasa pemrograman digunakan dalam pembuatan game ini ?
+- Penggunaan Class Maze: Kelas ini digunakan untuk merepresentasikan struktur maze. Ini memiliki atribut cells yang merupakan array dua dimensi dari karakter.
+
+- Penggunaan Class Player: Kelas ini merepresentasikan pemain dalam permainan. Ini memiliki atribut row dan col untuk menyimpan posisi pemain.
+
+- Penggunaan Class Game: Kelas ini mengatur jalannya permainan dan interaksi antara pemain dan maze. Ini mengandung metode-metode yang mengimplementasikan logika permainan dan menggunakan objek dari kelas Maze dan Player.
