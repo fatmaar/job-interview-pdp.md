@@ -62,3 +62,13 @@ player | membeli kendaraan | bisa menggunakan kendaraan selama perjalanan game d
 ## 6. Demonstrasi Video
 [https://www.youtube.com/watch?v=i55g3PnSae8]
 
+## 7. Game menerapkan prinsip-prinsip dasar pemrograman seperti
+Variable
+Data type
+Operator
+Boolean
+Conditions: If / else / switch
+Looping: while / for
+Array
+Method
+Class
